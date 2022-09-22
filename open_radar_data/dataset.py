@@ -4,7 +4,7 @@ import pooch
 DATASETS = pooch.create(
     path=pooch.os_cache('open-radar-data'),
     base_url='https://github.com/openradar/open-radar-data/raw/main/data/',
-    env='PYTHIA_DATASETS_DIR',
+    env='OPEN_RADAR_DATA_DIR',
 )
 
 with pkg_resources.resource_stream('open_radar_data', 'registry.txt') as registry_file:
