@@ -4,8 +4,20 @@ A place to share radar data with the community, shared between the open radar pa
 
 ## Sample data sets
 
-These files are used as sample data in Pythia Project examples/notebooks and are downloaded by `pythia_datasets` package:
+These files are used as sample data in Pythia Project examples/notebooks and are downloaded by `open-radar-data` package:
 
+- `0080_20210730_160000_01_02.scn.gz`
+- `2006_20220324_000000_000.scnx.gz`
+- `2013051000000600dBZ.vol`
+- `71_20181220_060628.pvol.h5`
+- `DWD-Vol-2_99999_20180601054047_00.h5`
+- `SUR210819000227.RAWKPJV`
+- `20220628072500_savevol_COSMO_LOOKUP_TEMP.nc`
+- `MLA2119412050U.nc`
+- `MLL2217907250U.003.nc`
+- `T_PAGZ35_C_ENMI_20170421090837.hdf`
+- `cfrad.20080604_002217_000_SPOL_v36_SUR.nc`
+- `cor-main131125105503.RAW2049`
 - `sample_sgp_data.nc`
 
 ## Adding new datasets
