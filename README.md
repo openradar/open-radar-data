@@ -19,6 +19,7 @@ These files are used as sample data in Pythia Project examples/notebooks and are
 - `cfrad.20080604_002217_000_SPOL_v36_SUR.nc`
 - `cor-main131125105503.RAW2049`
 - `sample_sgp_data.nc`
+- `sample_rainbow_5_59.nc`
 
 ## Adding new datasets
 
