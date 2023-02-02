@@ -20,6 +20,9 @@ These files are used as sample data in Pythia Project examples/notebooks and are
 - `cor-main131125105503.RAW2049`
 - `sample_sgp_data.nc`
 - `sample_rainbow_5_59.nc`
+- `gucxprecipradarcmacppiS2.c1.20220314.021559.nc`
+- `gucxprecipradarcmacppiS2.c1.20220314.024239.nc`
+- `gucxprecipradarcmacppiS2.c1.20220314.025840.nc`
 
 ## Adding new datasets
 
