@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-python@v4
         name: Install Python
         with:
-          python-version: 3.8
+          python-version: 3.11
 
       - name: Install dependencies
         run: |
@@ -30,7 +30,7 @@ jobs:
         run: |
           python -m twine check dist/*
           pwd
-          if [ -f dist/pythia-datasets-0.0.0.tar.gz ]; then
+          if [ -f dist/open-radar-data-0.0.0.tar.gz ]; then
             echo "❌ INVALID VERSION NUMBER"
             exit 1
           else
@@ -48,7 +48,7 @@ jobs:
       - uses: actions/setup-python@v4
         name: Install Python
         with:
-          python-version: 3.8
+          python-version: 3.11
       - uses: actions/download-artifact@v3
         with:
           name: releases

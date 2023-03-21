@@ -4,7 +4,7 @@ A place to share radar data with the community, shared between the open radar pa
 
 ## Sample data sets
 
-These files are used as sample data in Pythia Project examples/notebooks and are downloaded by `open-radar-data` package:
+These files are used as sample data in openradar examples/notebooks and are downloaded by `open-radar-data` package:
 
 - `0080_20210730_160000_01_02.scn.gz`
 - `2006_20220324_000000_000.scnx.gz`
