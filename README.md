@@ -1,4 +1,5 @@
 # Open-Radar-Data
+[![CI](https://github.com/openradar/open-radar-data/actions/workflows/ci.yaml/badge.svg)](https://github.com/openradar/open-radar-data/actions/workflows/ci.yaml)
 [![PyPI Version](https://img.shields.io/pypi/v/open-radar-data.svg)](https://pypi.python.org/pypi/open-radar-data)
 [![Conda Version](https://img.shields.io/conda/vn/conda-forge/open-radar-data.svg)](https://anaconda.org/conda-forge/open-radar-data)
 
