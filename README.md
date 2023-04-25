@@ -1,4 +1,6 @@
 # Open-Radar-Data
+[![PyPI Version](https://img.shields.io/pypi/v/open-radar-data.svg)](https://pypi.python.org/pypi/open-radar-data)
+[![Conda Version](https://img.shields.io/conda/vn/conda-forge/open-radar-data.svg)](https://anaconda.org/conda-forge/open-radar-data)
 
 A place to share radar data with the community, shared between the open radar packages
 
@@ -42,6 +44,10 @@ To add a new dataset file, please follow these steps:
   # or
 
   python -m pip install git+https://github.com/openradar/open-radar-data
+  
+  # or
+  
+  conda install -c conda-forge open-radar-data
   ```
 
 - Import `DATASETS` and inspect the registry to find out which datasets are available
