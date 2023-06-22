@@ -26,6 +26,7 @@ These files are used as sample data in openradar examples/notebooks and are down
 - `gucxprecipradarcmacppiS2.c1.20220314.021559.nc`
 - `gucxprecipradarcmacppiS2.c1.20220314.024239.nc`
 - `gucxprecipradarcmacppiS2.c1.20220314.025840.nc`
+- `corcsapr2cmacppiM1.c1.20181111.030003.nc`
 
 ## Adding new datasets
 
@@ -45,9 +46,9 @@ To add a new dataset file, please follow these steps:
   # or
 
   python -m pip install git+https://github.com/openradar/open-radar-data
-  
+
   # or
-  
+
   conda install -c conda-forge open-radar-data
   ```
 
