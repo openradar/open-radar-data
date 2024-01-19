@@ -57,6 +57,7 @@ These files are used as sample data in openradar examples/notebooks and are down
 - `RAW_NA_000_125_20080411200945`
 - `RAW_NA_000_125_20080411201520`
 - `RAW_NA_000_125_20080411202047`
+- `KATX20130717_195021_V06`
 
 ## Adding new datasets
 
