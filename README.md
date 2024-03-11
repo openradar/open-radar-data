@@ -69,6 +69,8 @@ These files are used as sample data in openradar examples/notebooks and are down
 - `RAW_NA_000_125_20080411202047`
 - `KATX20130717_195021_V06`
 - `example_plot_ppi_single_sweep.nc`
+- `KLBB20160601_150025_V06`
+- `KLBB20160601_150025_V06.gz`
 
 ## Adding new datasets
 
