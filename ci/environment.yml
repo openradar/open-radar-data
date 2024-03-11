@@ -7,3 +7,5 @@ dependencies:
   - pooch
   - pre-commit
   - pytest-cov
+  - setuptools
+  - setuptools-scm

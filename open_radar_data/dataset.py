@@ -1,4 +1,4 @@
-import pkg_resources
+import importlib.resources
 import pooch
 
 DATASETS = pooch.create(
@@ -7,7 +7,7 @@ DATASETS = pooch.create(
     env='OPEN_RADAR_DATA_DIR',
 )
 
-with pkg_resources.resource_stream('open_radar_data', 'registry.txt') as registry_file:
+with open(importlib.resources.files('open_radar_data') / 'registry.txt') as registry_file:
     DATASETS.load_registry(registry_file)
 
 
