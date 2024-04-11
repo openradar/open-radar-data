@@ -1,6 +1,5 @@
 {
     "chunks": [
-        1,
         360,
         497
     ],
@@ -11,13 +10,11 @@
         "id": "blosc",
         "shuffle": 1
     },
-    "dimension_separator": ".",
     "dtype": "<i2",
     "fill_value": null,
     "filters": null,
     "order": "C",
     "shape": [
-        2,
         720,
         994
     ],

@@ -1,6 +1,5 @@
 {
     "_ARRAY_DIMENSIONS": [
-        "vcp_time",
         "azimuth",
         "range"
     ],
