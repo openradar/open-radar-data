@@ -89,6 +89,61 @@
         "platform_type/.zattrs": {
             "_ARRAY_DIMENSIONS": []
         },
+        "radar_parameters/.zattrs": {
+            "coordinates": "altitude latitude longitude"
+        },
+        "radar_parameters/.zgroup": {
+            "zarr_format": 2
+        },
+        "radar_parameters/altitude/.zarray": {
+            "chunks": [],
+            "compressor": null,
+            "dtype": "<f8",
+            "fill_value": "NaN",
+            "filters": null,
+            "order": "C",
+            "shape": [],
+            "zarr_format": 2
+        },
+        "radar_parameters/altitude/.zattrs": {
+            "_ARRAY_DIMENSIONS": [],
+            "long_name": "altitude",
+            "standard_name": "altitude",
+            "units": "meters"
+        },
+        "radar_parameters/latitude/.zarray": {
+            "chunks": [],
+            "compressor": null,
+            "dtype": "<f8",
+            "fill_value": "NaN",
+            "filters": null,
+            "order": "C",
+            "shape": [],
+            "zarr_format": 2
+        },
+        "radar_parameters/latitude/.zattrs": {
+            "_ARRAY_DIMENSIONS": [],
+            "long_name": "latitude",
+            "positive": "up",
+            "standard_name": "latitude",
+            "units": "degrees_north"
+        },
+        "radar_parameters/longitude/.zarray": {
+            "chunks": [],
+            "compressor": null,
+            "dtype": "<f8",
+            "fill_value": "NaN",
+            "filters": null,
+            "order": "C",
+            "shape": [],
+            "zarr_format": 2
+        },
+        "radar_parameters/longitude/.zattrs": {
+            "_ARRAY_DIMENSIONS": [],
+            "long_name": "longitude",
+            "standard_name": "longitude",
+            "units": "degrees_east"
+        },
         "sweep_0/.zattrs": {
             "coordinates": "vcp_time x y z"
         },
