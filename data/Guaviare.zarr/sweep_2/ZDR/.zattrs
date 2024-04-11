@@ -1,0 +1,11 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "vcp_time",
+        "azimuth",
+        "range"
+    ],
+    "coordinates": "elevation azimuth range latitude longitude altitude time",
+    "long_name": "Log differential reflectivity H/V",
+    "standard_name": "radar_differential_reflectivity_hv",
+    "units": "dB"
+}

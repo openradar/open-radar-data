@@ -1,0 +1,8 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "azimuth"
+    ],
+    "calendar": "proleptic_gregorian",
+    "standard_name": "time",
+    "units": "nanoseconds since 2000-01-01"
+}

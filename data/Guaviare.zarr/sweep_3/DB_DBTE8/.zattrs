@@ -1,0 +1,8 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "vcp_time",
+        "azimuth",
+        "range"
+    ],
+    "coordinates": "elevation azimuth range latitude longitude altitude time"
+}

@@ -1,0 +1,9 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "azimuth"
+    ],
+    "axis": "radial_elevation_coordinate",
+    "long_name": "elevation_angle_from_horizontal_plane",
+    "standard_name": "ray_elevation_angle",
+    "units": "degrees"
+}

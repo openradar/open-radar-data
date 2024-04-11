@@ -1,0 +1,11 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "vcp_time",
+        "azimuth",
+        "range"
+    ],
+    "coordinates": "elevation azimuth range latitude longitude altitude time",
+    "long_name": "Specific differential phase HV",
+    "standard_name": "radar_specific_differential_phase_hv",
+    "units": "degrees per kilometer"
+}

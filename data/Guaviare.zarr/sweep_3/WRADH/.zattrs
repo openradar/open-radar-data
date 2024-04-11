@@ -1,0 +1,11 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "vcp_time",
+        "azimuth",
+        "range"
+    ],
+    "coordinates": "elevation azimuth range latitude longitude altitude time",
+    "long_name": "Doppler spectrum width H",
+    "standard_name": "radar_doppler_spectrum_width_h",
+    "units": "meters per seconds"
+}

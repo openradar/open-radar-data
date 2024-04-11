@@ -1,0 +1,12 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "range"
+    ],
+    "axis": "radial_range_coordinate",
+    "long_name": "range_to_measurement_volume",
+    "meters_between_gates": 15000.0,
+    "meters_to_center_of_first_gate": 100000,
+    "spacing_is_constant": "true",
+    "standard_name": "projection_range_coordinate",
+    "units": "meters"
+}

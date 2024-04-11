@@ -1,0 +1,7 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "vcp_time"
+    ],
+    "calendar": "proleptic_gregorian",
+    "units": "nanoseconds since 2000-01-01"
+}

@@ -1,0 +1,8 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "azimuth",
+        "range"
+    ],
+    "standard_name": "east_west_distance_from_radar",
+    "units": "meters"
+}

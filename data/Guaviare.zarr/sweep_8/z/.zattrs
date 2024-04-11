@@ -1,0 +1,8 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "azimuth",
+        "range"
+    ],
+    "standard_name": "height_above_ground",
+    "units": "meters"
+}
