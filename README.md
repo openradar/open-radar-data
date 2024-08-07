@@ -30,10 +30,10 @@ These files are used as sample data in openradar examples/notebooks and are down
 - `T_PAZE63_C_LFPW_20230420065446.h5`
 - `T_PAZE63_C_LFPW_20230420065946.h5`
 - `cfrad.20080604_002217_000_SPOL_v36_SUR.nc`
-- `cfrad.20211011_201557.188_to_20211011_201617.720_DOW8_PPI.nc` 
+- `cfrad.20211011_201557.188_to_20211011_201617.720_DOW8_PPI.nc`
 - `cfrad.20211011_201711.345_to_20211011_201732.860_DOW8_PPI.nc`
 - `cfrad.20211011_201733.023_to_20211011_201745.299_DOW8_RHI.nc`
-- `cfrad.20211011_202304.515_to_20211011_202326.412_DOW8_PPI.nc` 
+- `cfrad.20211011_202304.515_to_20211011_202326.412_DOW8_PPI.nc`
 - `cfrad.20211011_223602.712_to_20211011_223612.091_DOW8_RHI.nc`
 - `cor-main131125105503.RAW2049`
 - `sample_sgp_data.nc`
@@ -85,6 +85,7 @@ These files are used as sample data in openradar examples/notebooks and are down
 - `Z__C_RJTD_20230801200000_RDR_JMAGPV_RS47937_Gar0p250km0p70deg_PRvel_N18_ANAL_cfrad.nc`
 - `Z__C_RJTD_20230801200000_RDR_JMAGPV_RS47937_Gar0p250km0p70deg_PRvsw_N18_ANAL_cfrad.nc`
 - `Z__C_RJTD_20230801200000_RDR_JMAGPV_RS47937_Gar0p250km0p70deg_PRzdr_N18_ANAL_cfrad.nc`
+- `DES_VOL_RAW_20240522_1600.nc`
 
 ## Adding new datasets
 
