@@ -10,6 +10,7 @@ A place to share radar data with the community, shared between the open radar pa
 These files are used as sample data in openradar examples/notebooks and are downloaded by `open-radar-data` package:
 
 - `0080_20210730_160000_01_02.scn.gz`
+- `110635.nc`
 - `2006_20220324_000000_000.scnx.gz`
 - `2013051000000600dBZ.vol`
 - `71_20181220_060628.pvol.h5`
