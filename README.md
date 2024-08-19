@@ -86,6 +86,7 @@ These files are used as sample data in openradar examples/notebooks and are down
 - `Z__C_RJTD_20230801200000_RDR_JMAGPV_RS47937_Gar0p250km0p70deg_PRvsw_N18_ANAL_cfrad.nc`
 - `Z__C_RJTD_20230801200000_RDR_JMAGPV_RS47937_Gar0p250km0p70deg_PRzdr_N18_ANAL_cfrad.nc`
 - `DES_VOL_RAW_20240522_1600.nc`
+- `swx_20120520_0641.nc`
 
 ## Adding new datasets
 
