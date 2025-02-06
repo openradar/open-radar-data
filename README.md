@@ -73,6 +73,7 @@ These files are used as sample data in openradar examples/notebooks and are down
 - `example_plot_ppi_single_sweep.nc`
 - `KLBB20160601_150025_V06`
 - `KLBB20160601_150025_V06.gz`
+- `KLIX20050828_180149.gz`
 - `Z__C_RJTD_20230801200000_RDR_JMAGPV_RS47937_Gar0p250km0p35deg_PRkdp_N11_ANAL_cfrad.nc`
 - `Z__C_RJTD_20230801200000_RDR_JMAGPV_RS47937_Gar0p250km0p35deg_PRpsd_N11_ANAL_cfrad.nc`
 - `Z__C_RJTD_20230801200000_RDR_JMAGPV_RS47937_Gar0p250km0p35deg_PRref_N11_ANAL_cfrad.nc`
