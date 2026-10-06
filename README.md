@@ -17,6 +17,14 @@ To add a new dataset file, please follow these steps:
 2. From the command line, run `python make_registry.py` script to update the registry file residing in `open_radar_data/registry.txt`
 3. Commit and push your changes to GitHub
 
+## Data sources and licenses
+
+Files from third-party sources are listed here with their origin and license. Please add an entry when contributing such a file.
+
+| File | Instrument / scan | Source | License |
+|------|-------------------|--------|---------|
+| `WLS200s-218_2022-10-07_00-51-38_dbs_1823_75m.nc` | Vaisala (Leosphere) WindCube 200S scanning Doppler lidar `WLS200s-218`, NetCDF-4 (`CF/Radial 2.0 , CF-1.7`, WindCube Lidar server 3.3.3); DBS scan, 4 beams at 75° elevation (azimuth 0, 90, 180, 270°) and a vertical beam, 50 rays, 188 gates of 75 m; 2022-10-07 00:51:38–00:56:08 UTC; site 51.968° N, 4.929° E | José Dias Neto, *Wind radial observations: sample data*, Zenodo, 2022, [doi:10.5281/zenodo.7366881](https://doi.org/10.5281/zenodo.7366881) (file from `wc_long_dbs.zip`, unmodified) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+
 ## Using datasets in notebooks and/or scripts
 
 - Ensure the `open_radar_data` package is installed in your environment
