@@ -1,0 +1,1 @@
+RMA1 data during RELAMPAGO are under an open data agreement and provided by Secretaría de Infraestructura y Política Hídrica, Subsecretaria de Obras Hidráulicas, Ministerio de Obras Públicas. Use of this data should be accompanied by acknowledging the data provider.
